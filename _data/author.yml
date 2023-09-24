@@ -6,18 +6,18 @@ description: "
   </p>
   <br/>
   <p>
-    You should follow him on <a href='https://github.com/sharadcodes' target='_blank'>Github</a>
+    You should follow him on <a href='https://github.com/Nombre-S' target='_blank'>Github</a>
   </P>
 "
-email: dev_sharad@outlook.com
+email: l20212433@tectijuana.edu.mx
 contact:
-  - title: linkedin
-    url: https://www.linkedin.com/in/srsmaurya
+#  - title: linkedin
+#    url: https://www.linkedin.com/in/srsmaurya
   - title: github
-    url: https://github.com/sharadcodes
-  - title: twitter
-    url: https://twitter.com/iamsharadraj
-  - title: dev
-    url: https://dev.to/sharadcodes
+    url: https://github.com/Nombre-S
+#  - title: twitter
+#    url: https://twitter.com/iamsharadraj
+#  - title: dev
+#    url: https://dev.to/sharadcodes
   - title: email
-    url: mailto:dev_sharad@outlook.com
+    url: mailto:l20212433@tectijuana.edu.mx
