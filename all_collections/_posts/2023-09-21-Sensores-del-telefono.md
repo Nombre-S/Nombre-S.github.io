@@ -17,3 +17,5 @@ categories: [Sensores]
 |    Sensor de Sonido   | ![](../../assets/images/SensoresTel/icons/sonido.jpg)       | Intensidad de sonido alrededor del dispositivo.        |       No       | No detectado                                           |
 |    Sensor Magnético   | ![](../../assets/images/SensoresTel/icons/magnetico.jpg)    | Detección de campos magnéticos.                        |       Sí       | ![](../../assets/images/SensoresTel/SensorMagnetico.jpg)  |
 |   Sensor de Presión   | ![](../../assets/images/SensoresTel/icons/presion.jpg)      | Medición de la presión ambiental, detección de altura. |       No       | No detectado                                           |
+
+Prueba push
