@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SSD1306 Menú con push buttons
-date: 2023-09-19
+date: 2023-10-19
 categories: [Sensores]
 ---
 
