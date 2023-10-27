@@ -192,5 +192,5 @@ if __name__ == '__main__':
 
 # Ejemplo funcional en wokwi
 
-> El ejemplo funcional del menú, se puede encontar [aquí](https://wokwi.com/projects/379037543681083393)
+> El ejemplo funcional del menú, se puede encontar [aquí.](https://wokwi.com/projects/379037543681083393)
 
