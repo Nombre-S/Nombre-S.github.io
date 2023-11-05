@@ -6,6 +6,10 @@ categories: [Sensores, Practicas]
 ---
 
 # Solución
+![](../../assets/images/Practica2.6/ToggleON.jpg)
+![](../../assets/images/Practica2.6/ON.jpg)
+![](../../assets/images/Practica2.6/ToggleOFF.jpg)
+![](../../assets/images/Practica2.6/OFF.jpg)
 
 # Codigo
 
